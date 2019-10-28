@@ -119,26 +119,14 @@ INSERT INTO `alignment`(`align`) VALUES ('CN');
 INSERT INTO `alignment`(`align`) VALUES ('CE');
 
 INSERT INTO `size`(`size`) VALUES ('Fine');
-
 INSERT INTO `size`(`size`) VALUES ('Diminuitive');
-
 INSERT INTO `size`(`size`) VALUES ('Tiny');
-
 INSERT INTO `size`(`size`) VALUES ('Small');
-
 INSERT INTO `size`(`size`) VALUES ('Medium');
-
 INSERT INTO `size`(`size`) VALUES ('Large');
-
 INSERT INTO `size`(`size`) VALUES ('Huge');
-
 INSERT INTO `size`(`size`) VALUES ('Gargantuan');
-
 INSERT INTO `size`(`size`) VALUES ('Colossal');
-
-
-
-
 
 INSERT INTO `type`(`type`) VALUES ('aberration');
 INSERT INTO `type`(`type`) VALUES ('animal');
